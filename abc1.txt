@@ -1,1 +1,14 @@
- Welcome to Project Demo 1
+
+
+Welcome to Project Demo 1
+1. git 
+3. git --version
+git init
+git clone "url"
+git add .\abc.txt      git commit -m "commit message"
+
+Copy from  Local device to Repository 
+git push
+
+Copy from Repository to Local device. 
+git pull
